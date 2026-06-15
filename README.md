@@ -2,9 +2,9 @@
 
 ## Android Developer | Kotlin | Jetpack Compose | Backend Development
 
-I am a final-year Engineering student passionate about building modern Android applications and scalable software solutions.
+Final-year Electronics & Telecommunication Engineering student passionate about building Android applications and scalable software solutions.
 
-### Skills
+### Tech Stack
 
 * Kotlin
 * Jetpack Compose
@@ -18,20 +18,22 @@ I am a final-year Engineering student passionate about building modern Android a
 
 #### 📱 Studora
 
-Student productivity and management application featuring timetable management, attendance tracking, task organization, and academic dashboard.
+Student productivity app with timetable management, attendance tracking, task organization, and academic dashboard.
 
 #### 📱 CodeMind
 
-Programming quiz application with multiple categories, score tracking, and interactive learning experience.
+Programming quiz application with multiple categories, score tracking, and interactive learning features.
 
 #### 🌐 GoodFood
 
-Responsive food ordering website with cart management, QR payment integration, receipt generation, and dark mode support.
+Responsive food ordering website featuring cart management, QR payment integration, receipt generation, and dark mode.
 
-### Currently Working On
+### Currently Building
 
-🚀 Studora – Student Productivity App
+🚀 Studora – Student Productivity & Management App
 
-### Connect With Me
+### Goals
 
-* GitHub: github.com/Dhiraj1574
+* Master Android Development
+* Learn Backend Development
+* Build and launch real-world products

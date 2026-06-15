@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Dhiraj Mane 👋
 
-<!--
-**Dhiraj1574/Dhiraj1574** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Android Developer | Kotlin | Jetpack Compose | Backend Development
 
-Here are some ideas to get you started:
+I am a final-year Engineering student passionate about building modern Android applications and scalable software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+* Kotlin
+* Jetpack Compose
+* Android Studio
+* HTML
+* CSS
+* JavaScript
+* Git & GitHub
+
+### Featured Projects
+
+#### 📱 Studora
+
+Student productivity and management application featuring timetable management, attendance tracking, task organization, and academic dashboard.
+
+#### 📱 CodeMind
+
+Programming quiz application with multiple categories, score tracking, and interactive learning experience.
+
+#### 🌐 GoodFood
+
+Responsive food ordering website with cart management, QR payment integration, receipt generation, and dark mode support.
+
+### Currently Working On
+
+🚀 Studora – Student Productivity App
+
+### Connect With Me
+
+* GitHub: github.com/Dhiraj1574

@@ -1,6 +1,6 @@
 # Hi, I'm Dhiraj Mane 👋
 
-## Android Developer | Kotlin | Jetpack Compose | Backend Development
+## Software Engineer | Android Developer | Back End Developer | Prompt Engineer | Copywriter | AI & ML Learner
 
 Final-year Electronics & Telecommunication Engineering student passionate about building Android applications and scalable software solutions.
 

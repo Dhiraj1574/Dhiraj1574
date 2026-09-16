@@ -35,5 +35,5 @@ Responsive food ordering website featuring cart management, QR payment integrati
 ### Goals
 
 * Master Android Development
-* Learn Backend Development
+* Learn Frontend Development
 * Build and launch real-world products

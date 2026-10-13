@@ -1,39 +1,57 @@
 # Hi, I'm Dhiraj Mane 👋
 
-## Software Engineer | Android Developer | Front End Developer | Prompt Engineer | Copywriter | AI & ML Learner
+### Front End Developer | Android Developer 
 
-Final-year Electronics & Telecommunication Engineering student passionate about building Android applications and scalable software solutions.
+Electronics & Telecommunication Engineering graduate, passionate about building web and Android applications that are clean, responsive and easy to use.
 
-### Tech Stack
+## 🚀 Featured Projects
 
-* Kotlin
-* Jetpack Compose
-* Android Studio
-* HTML
-* CSS
-* JavaScript
-* Git & GitHub
+### 1. TriPlan
+[Describe what TriPlan does in one or two sentences.]
 
-### Featured Projects
+- **Live demo:** [TriPlan live demo](https://dhiraj1574.github.io/TriPlan---trip-planning-web-application/)
+- **Source code:** [github.com/Dhiraj1574/TriPlan---trip-planning-web-application](https://github.com/Dhiraj1574/TriPlan---trip-planning-web-application)
 
-#### 📱 Studora
+### 2. KeySprint
+A typing practice web app with timed tests, passage tests, custom text practice, live scoring, a dashboard, progress charts and profile settings. Built with HTML, CSS and vanilla JavaScript, using localStorage, Web Crypto password hashing and inline SVG charts.
 
-Student productivity app with timetable management, attendance tracking, task organization, and academic dashboard.
+- **Live demo:** [dhiraj1574.github.io/KeySprint-Web-Application](https://dhiraj1574.github.io/KeySprint-Web-Application/)
+- **Source code:** [github.com/dhiraj1574/KeySprint-Web-Application](https://github.com/dhiraj1574/KeySprint-Web-Application)
 
-#### 📱 CodeMind
+### 3. Studora
+Student productivity app with timetable management, attendance tracking, task organisation and an academic dashboard.
 
-Programming quiz application with multiple categories, score tracking, and interactive learning features.
+- **Source code:** [github.com/Dhiraj1574/Studora-student-app](https://github.com/Dhiraj1574/Studora-student-app)
 
-#### 🌐 GoodFood
+## 🛠️ Tech Stack
 
-Responsive food ordering website featuring cart management, QR payment integration, receipt generation, and dark mode.
+**Web:** HTML5, CSS3, JavaScript
 
-### Currently Building
+**Android:** Kotlin, Jetpack Compose, Android Studio
 
-🚀 Studora – Student Productivity & Management App
+**Tools:** Git, GitHub
 
-### Goals
+## 🔭 Other Projects
 
-* Master Android Development
-* Learn Frontend Development
-* Build and launch real-world products
+- **CodeMind:** programming quiz application with multiple categories, score tracking and interactive learning features.
+- **GoodFood:** responsive food ordering website with cart management, QR payment integration, receipt generation and dark mode.
+
+## 🚧 Currently Building
+
+🚀 Studora, a student productivity and management app.
+
+## 🎯 Goals
+
+- Master Android development
+- Deepen frontend development skills
+- Build and launch real-world products
+
+## 📫 Connect with me
+
+- GitHub: [@dhiraj1574](https://github.com/dhiraj1574)
+- LinkedIn: [linkedin.com/in/dhiraj-mane](https://www.linkedin.com/in/dhiraj-mane)
+- Email: [dhirajmaneoff1574@gmail.com](mailto:dhirajmaneoff1574@gmail.com)
+
+---
+
+⭐ Thanks for visiting my profile.

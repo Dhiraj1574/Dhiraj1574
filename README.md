@@ -7,7 +7,9 @@ Electronics & Telecommunication Engineering graduate, passionate about building 
 ## 🚀 Featured Projects
 
 ### 1. TriPlan
-[Describe what TriPlan does in one or two sentences.]
+A smart trip-planning web application to organise trips, manage activities, track expenses, and monitor travel budgets in one place. TriPlan is a responsive, front-end web application designed to make trip planning simple, structured, and manageable. From creating a trip to organising daily activities and tracking actual expenses, TriPlan brings the essential parts of travel planning together in one workspace.
+
+Built with HTML5, CSS3, and vanilla JavaScript, TriPlan runs directly in the browser without frameworks, backend services, or a build process.
 
 - **Live demo:** [TriPlan live demo](https://dhiraj1574.github.io/TriPlan---trip-planning-web-application/)
 - **Source code:** [github.com/Dhiraj1574/TriPlan---trip-planning-web-application](https://github.com/Dhiraj1574/TriPlan---trip-planning-web-application)

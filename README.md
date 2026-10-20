@@ -1,8 +1,8 @@
 # Hi, I'm Dhiraj Mane 👋
 
-### Front End Developer | Android Developer 
+### Front End Developer | Android Developer | Data Analysis Enthusiast
 
-Electronics & Telecommunication Engineering graduate, passionate about building web and Android applications that are clean, responsive and easy to use.
+Electronics & Telecommunication Engineering graduate building web and Android applications that are clean, responsive, and easy to use. Currently expanding into Python and data analysis, with a focus on turning raw data into clear, actionable insights.
 
 ## 🚀 Featured Projects
 
@@ -14,39 +14,53 @@ Built with HTML5, CSS3, and vanilla JavaScript, TriPlan runs directly in the bro
 - **Live demo:** [TriPlan live demo](https://dhiraj1574.github.io/TriPlan---trip-planning-web-application/)
 - **Source code:** [github.com/Dhiraj1574/TriPlan---trip-planning-web-application](https://github.com/Dhiraj1574/TriPlan---trip-planning-web-application)
 
-### 2. KeySprint
+### 2. Weather Analysis: Pune (2016–2025)
+An end-to-end data analysis of ten years of daily temperature and rainfall data for Pune, India. The project cleans and structures 3,653 daily records, summarizes them by month and year, and visualizes seasonal and long-term patterns.
+
+**Key findings:**
+- July is the wettest month on average (about 9.3 mm per day), and almost all rain falls between June and September.
+- March and April are the hottest months, with average daily maximums around 36–38°C.
+- Annual rainfall ranged from about 681 mm (2018) to 1,485 mm (2020).
+- Ten years of data show large year-to-year swings but no clear long-term temperature trend.
+
+**Tech:** Python, Pandas, NumPy, Matplotlib, Jupyter
+
+- **Source code:** [github.com/Dhiraj1574/Weather-analysis](https://github.com/Dhiraj1574/Weather-analysis)
+
+### 3. KeySprint
 A typing practice web app with timed tests, passage tests, custom text practice, live scoring, a dashboard, progress charts and profile settings. Built with HTML, CSS and vanilla JavaScript, using localStorage, Web Crypto password hashing and inline SVG charts.
 
 - **Live demo:** [dhiraj1574.github.io/KeySprint-Web-Application](https://dhiraj1574.github.io/KeySprint-Web-Application/)
 - **Source code:** [github.com/dhiraj1574/KeySprint-Web-Application](https://github.com/dhiraj1574/KeySprint-Web-Application)
 
-### 3. Studora
-Student productivity app with timetable management, attendance tracking, task organisation and an academic dashboard.
-
-- **Source code:** [github.com/Dhiraj1574/Studora-student-app](https://github.com/Dhiraj1574/Studora-student-app)
-
 ## 🛠️ Tech Stack
 
-**Web:** HTML5, CSS3, JavaScript
+**Languages:** Python, JavaScript, HTML5, CSS3, Kotlin
+
+**Web:** HTML5, CSS3, Vanilla JavaScript, responsive design
 
 **Android:** Kotlin, Jetpack Compose, Android Studio
 
-**Tools:** Git, GitHub
+**Data:** Python, Pandas, NumPy, Matplotlib, Jupyter
 
-## 🔭 Other Projects
+**Tools:** Git, GitHub, VS Code
+
+## 🧩 Other Projects
 
 - **CodeMind:** programming quiz application with multiple categories, score tracking and interactive learning features.
 - **GoodFood:** responsive food ordering website with cart management, QR payment integration, receipt generation and dark mode.
 
-## 🚧 Currently Building
+## 🔭 Currently Learning
 
-🚀 Studora, a student productivity and management app.
+- Python for data analysis and machine learning (AI/ML coursework)
+- Advanced Pandas and data visualization techniques
 
 ## 🎯 Goals
 
 - Master Android development
 - Deepen frontend development skills
-- Build and launch real-world products
+- Build data-driven applications that combine web, mobile, and analytics
+- Launch real-world products
 
 ## 📫 Connect with me
 

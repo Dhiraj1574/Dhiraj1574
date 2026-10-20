@@ -11,7 +11,7 @@ A smart trip-planning web application to organise trips, manage activities, trac
 
 Built with HTML5, CSS3, and vanilla JavaScript, TriPlan runs directly in the browser without frameworks, backend services, or a build process.
 
-- **Live demo:** [TriPlan live demo](https://dhiraj1574.github.io/TriPlan---trip-planning-web-application/)
+- **Live demo:** [dhiraj1574.github.io/TriPlan---trip-planning-web-application](https://dhiraj1574.github.io/TriPlan---trip-planning-web-application/)
 - **Source code:** [github.com/Dhiraj1574/TriPlan---trip-planning-web-application](https://github.com/Dhiraj1574/TriPlan---trip-planning-web-application)
 
 ### 2. Weather Analysis: Pune (2016–2025)

@@ -48,7 +48,9 @@ A typing practice web app with timed tests, passage tests, custom text practice,
 ## 🧩 Other Projects
 
 - **CodeMind:** programming quiz application with multiple categories, score tracking and interactive learning features.
-- **GoodFood:** responsive food ordering website with cart management, QR payment integration, receipt generation and dark mode.
+  - **Source code:** [github.com/Dhiraj1574/CodeMind-Quiz-App](https://github.com/Dhiraj1574/CodeMind-Quiz-App)
+- **Studora:** student productivity app with timetable management, attendance tracking, task organisation and an academic dashboard.
+  - **Source code:** [github.com/Dhiraj1574/Studora-student-app](https://github.com/Dhiraj1574/Studora-student-app)
 
 ## 🔭 Currently Learning
 
